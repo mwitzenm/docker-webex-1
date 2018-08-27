@@ -10,4 +10,3 @@ RUN useradd -ms /bin/bash webex
 USER webex
 WORKDIR /home/webex
 CMD /usr/local/firefox/firefox
-#test
